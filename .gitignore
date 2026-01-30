@@ -23,7 +23,6 @@ bld/
 
 ## Visual Studio cache/options
 .vs/
-.vscode/
 
 ## Rider
 .idea/
@@ -40,3 +39,7 @@ bld/
 
 ## Local files (not for GitHub)
 BLOG.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
